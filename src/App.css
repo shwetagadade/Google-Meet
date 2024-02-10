@@ -1,0 +1,9 @@
+button{
+    color: black;
+    background-color:gray;
+    
+}
+button:hover{
+    color: aqua;
+    background-color: black;
+}
